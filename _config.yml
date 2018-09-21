@@ -28,8 +28,8 @@ github_username:  ockstaetter
 markdown: kramdown
 theme: ceevee
 remote_theme: mschaeffner/ceevee
-url: ockstaetter.github.io
-baseurl: /ockstaetter/ockstaetter.github.io
+# url: ockstaetter.github.io
+# baseurl: /ockstaetter/ockstaetter.github.io
 
 plugins:
   - jekyll-feed
